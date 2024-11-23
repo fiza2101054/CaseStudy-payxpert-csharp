@@ -1,0 +1,692 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC551DA1-5687-4671-BFDA-4B4CC9CEE35F}|PAYXPERT_app.tests\\PAYXPERT_app.tests.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert_app.tests\\payxperttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC551DA1-5687-4671-BFDA-4B4CC9CEE35F}|PAYXPERT_app.tests\\PAYXPERT_app.tests.csproj|solutionrelative:payxpert_app.tests\\payxperttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\main\\mainmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\main\\mainmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\service\\taxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\service\\taxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\service\\payrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\service\\payrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\exceptions\\taxcalculationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\exceptions\\taxcalculationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\repository\\taxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\repository\\taxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\service\\financialrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\service\\financialrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\exceptions\\financialrecordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\exceptions\\financialrecordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\service\\ipayrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\service\\ipayrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\exceptions\\payrollgenerationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\exceptions\\payrollgenerationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC551DA1-5687-4671-BFDA-4B4CC9CEE35F}|PAYXPERT_app.tests\\PAYXPERT_app.tests.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert_app.tests\\payxpert_app.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC551DA1-5687-4671-BFDA-4B4CC9CEE35F}|PAYXPERT_app.tests\\PAYXPERT_app.tests.csproj|solutionrelative:payxpert_app.tests\\payxpert_app.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\service\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\service\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\9.0.0\\buildTransitive\\netcoreapp2.0\\Microsoft.Bcl.AsyncInterfaces.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\service\\reportgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\service\\reportgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\service\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\service\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\service\\ireportgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\service\\ireportgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\service\\ifinancialrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\service\\ifinancialrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\service\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\service\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\repository\\reportgeneratorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\repository\\reportgeneratorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\repository\\payrollrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\repository\\payrollrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\repository\\financialrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\repository\\financialrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\exceptions\\databaseconnectionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\exceptions\\databaseconnectionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\utility\\dbconnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\utility\\dbconnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\exceptions\\employeenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\exceptions\\employeenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\model\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\model\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\exceptions\\invalidinputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\exceptions\\invalidinputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\repository\\ireportgeneratorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\repository\\ireportgeneratorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\model\\tax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\model\\tax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\model\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\model\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\model\\financialrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\model\\financialrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\repository\\ipayrollrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\repository\\ipayrollrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\payxpert.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\payxpert.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\repository\\itaxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\repository\\itaxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|c:\\users\\lenovo\\source\\repos\\payxpert_app\\payxpert\\repository\\ifinancialrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4116E351-57C0-4C96-8EAD-ECFE55E088DF}|Payxpert\\Payxpert.csproj|solutionrelative:payxpert\\repository\\ifinancialrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Payroll.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Model\\Payroll.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Model\\Payroll.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Model\\Payroll.cs",
+              "RelativeToolTip": "Payxpert\\Model\\Payroll.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:26:15.164Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PayrollService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Service\\PayrollService.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Service\\PayrollService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Service\\PayrollService.cs",
+              "RelativeToolTip": "Payxpert\\Service\\PayrollService.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAswIwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:58:45.523Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaxService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Service\\TaxService.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Service\\TaxService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Service\\TaxService.cs",
+              "RelativeToolTip": "Payxpert\\Service\\TaxService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwFsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T07:00:36.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainModule.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Main\\MainModule.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Main\\MainModule.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Main\\MainModule.cs",
+              "RelativeToolTip": "Payxpert\\Main\\MainModule.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAQwCAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:21:39.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Payxperttests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\PAYXPERT_app.tests\\Payxperttests.cs",
+              "RelativeDocumentMoniker": "PAYXPERT_app.tests\\Payxperttests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\PAYXPERT_app.tests\\Payxperttests.cs",
+              "RelativeToolTip": "PAYXPERT_app.tests\\Payxperttests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:10:52.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaxCalculationException.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Exceptions\\TaxCalculationException.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Exceptions\\TaxCalculationException.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Exceptions\\TaxCalculationException.cs",
+              "RelativeToolTip": "Payxpert\\Exceptions\\TaxCalculationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:10:24.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Program.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Program.cs",
+              "RelativeToolTip": "Payxpert\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:47:35.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaxRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Repository\\TaxRepository.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Repository\\TaxRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Repository\\TaxRepository.cs",
+              "RelativeToolTip": "Payxpert\\Repository\\TaxRepository.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAkwIkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:59:37.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPayrollService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Service\\IPayrollService.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Service\\IPayrollService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Service\\IPayrollService.cs",
+              "RelativeToolTip": "Payxpert\\Service\\IPayrollService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:58:30.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FinancialRecordException.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Exceptions\\FinancialRecordException.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Exceptions\\FinancialRecordException.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Exceptions\\FinancialRecordException.cs",
+              "RelativeToolTip": "Payxpert\\Exceptions\\FinancialRecordException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:56:48.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FinancialRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Service\\FinancialRecordService.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Service\\FinancialRecordService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Service\\FinancialRecordService.cs",
+              "RelativeToolTip": "Payxpert\\Service\\FinancialRecordService.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAkwEwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:04:21.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Service\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "Payxpert\\Service\\EmployeeService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAqwGAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:28:50.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PayrollGenerationException.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Exceptions\\PayrollGenerationException.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Exceptions\\PayrollGenerationException.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Exceptions\\PayrollGenerationException.cs",
+              "RelativeToolTip": "Payxpert\\Exceptions\\PayrollGenerationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:57:14.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PAYXPERT_app.tests",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\PAYXPERT_app.tests\\PAYXPERT_app.tests.csproj",
+              "RelativeDocumentMoniker": "PAYXPERT_app.tests\\PAYXPERT_app.tests.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\PAYXPERT_app.tests\\PAYXPERT_app.tests.csproj",
+              "RelativeToolTip": "PAYXPERT_app.tests\\PAYXPERT_app.tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T06:14:36.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\appsettings.json",
+              "RelativeDocumentMoniker": "Payxpert\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\appsettings.json",
+              "RelativeToolTip": "Payxpert\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T16:38:53.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Service\\ValidationService.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Service\\ValidationService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Service\\ValidationService.cs",
+              "RelativeToolTip": "Payxpert\\Service\\ValidationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:04:40.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Microsoft.Bcl.AsyncInterfaces.targets",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\9.0.0\\buildTransitive\\netcoreapp2.0\\Microsoft.Bcl.AsyncInterfaces.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\9.0.0\\buildTransitive\\netcoreapp2.0\\Microsoft.Bcl.AsyncInterfaces.targets",
+              "ToolTip": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\9.0.0\\buildTransitive\\netcoreapp2.0\\Microsoft.Bcl.AsyncInterfaces.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\9.0.0\\buildTransitive\\netcoreapp2.0\\Microsoft.Bcl.AsyncInterfaces.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-20T08:06:42.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReportGeneratorService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Service\\ReportGeneratorService.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Service\\ReportGeneratorService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Service\\ReportGeneratorService.cs",
+              "RelativeToolTip": "Payxpert\\Service\\ReportGeneratorService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwCgAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:41:38.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Payxpert\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAswGwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:26:16.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITaxService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Service\\ITaxService.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Service\\ITaxService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Service\\ITaxService.cs",
+              "RelativeToolTip": "Payxpert\\Service\\ITaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T07:00:17.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IReportGeneratorService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Service\\IReportGeneratorService.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Service\\IReportGeneratorService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Service\\IReportGeneratorService.cs",
+              "RelativeToolTip": "Payxpert\\Service\\IReportGeneratorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:41:57.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IFinancialRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Service\\IFinancialRecordService.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Service\\IFinancialRecordService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Service\\IFinancialRecordService.cs",
+              "RelativeToolTip": "Payxpert\\Service\\IFinancialRecordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:04:01.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Service\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Service\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Service\\IEmployeeService.cs",
+              "RelativeToolTip": "Payxpert\\Service\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:28:30.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReportGeneratorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Repository\\ReportGeneratorRepository.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Repository\\ReportGeneratorRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Repository\\ReportGeneratorRepository.cs",
+              "RelativeToolTip": "Payxpert\\Repository\\ReportGeneratorRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwHEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:17:12.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PayrollRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Repository\\PayrollRepository.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Repository\\PayrollRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Repository\\PayrollRepository.cs",
+              "RelativeToolTip": "Payxpert\\Repository\\PayrollRepository.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAvwHQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:57:54.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FinancialRecordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Repository\\FinancialRecordRepository.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Repository\\FinancialRecordRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Repository\\FinancialRecordRepository.cs",
+              "RelativeToolTip": "Payxpert\\Repository\\FinancialRecordRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwC8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:56:52.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Model\\Employee.cs",
+              "RelativeToolTip": "Payxpert\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:14:43.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DatabaseConnectionException.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Exceptions\\DatabaseConnectionException.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Exceptions\\DatabaseConnectionException.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Exceptions\\DatabaseConnectionException.cs",
+              "RelativeToolTip": "Payxpert\\Exceptions\\DatabaseConnectionException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:51:02.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DBConnUtil.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Utility\\DBConnUtil.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Utility\\DBConnUtil.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Utility\\DBConnUtil.cs",
+              "RelativeToolTip": "Payxpert\\Utility\\DBConnUtil.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:08:56.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EmployeeNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Exceptions\\EmployeeNotFoundException.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Exceptions\\EmployeeNotFoundException.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Exceptions\\EmployeeNotFoundException.cs",
+              "RelativeToolTip": "Payxpert\\Exceptions\\EmployeeNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:26:16.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Model\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Model\\ReportGenerator.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Model\\ReportGenerator.cs",
+              "RelativeToolTip": "Payxpert\\Model\\ReportGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:59:57.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Repository\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Repository\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Repository\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Payxpert\\Repository\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:25:53.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "InvalidInputException.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Exceptions\\InvalidInputException.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Exceptions\\InvalidInputException.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Exceptions\\InvalidInputException.cs",
+              "RelativeToolTip": "Payxpert\\Exceptions\\InvalidInputException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:52:21.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IReportGeneratorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Repository\\IReportGeneratorRepository.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Repository\\IReportGeneratorRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Repository\\IReportGeneratorRepository.cs",
+              "RelativeToolTip": "Payxpert\\Repository\\IReportGeneratorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:16:57.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Tax.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Model\\Tax.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Model\\Tax.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Model\\Tax.cs",
+              "RelativeToolTip": "Payxpert\\Model\\Tax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:31:33.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FinancialRecord.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Model\\FinancialRecord.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Model\\FinancialRecord.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Model\\FinancialRecord.cs",
+              "RelativeToolTip": "Payxpert\\Model\\FinancialRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:32:06.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IPayrollRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Repository\\IPayrollRepository.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Repository\\IPayrollRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Repository\\IPayrollRepository.cs",
+              "RelativeToolTip": "Payxpert\\Repository\\IPayrollRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:57:39.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Payxpert.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Payxpert.csproj",
+              "RelativeDocumentMoniker": "Payxpert\\Payxpert.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Payxpert.csproj",
+              "RelativeToolTip": "Payxpert\\Payxpert.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T16:07:35.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ITaxRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Repository\\ITaxRepository.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Repository\\ITaxRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Repository\\ITaxRepository.cs",
+              "RelativeToolTip": "Payxpert\\Repository\\ITaxRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:59:20.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IFinancialRecordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Repository\\IFinancialRecordRepository.cs",
+              "RelativeDocumentMoniker": "Payxpert\\Repository\\IFinancialRecordRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PAYXPERT_app\\Payxpert\\Repository\\IFinancialRecordRepository.cs",
+              "RelativeToolTip": "Payxpert\\Repository\\IFinancialRecordRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:56:36.334Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
